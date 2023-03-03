@@ -1,0 +1,46 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/GENCO/OneDrive/Belgeler/Unreal Projects/Erenimo/Content/StarterContent/Props/MaterialSphere.uasset",
+				"C:/Users/GENCO/OneDrive/Belgeler/Unreal Projects/Erenimo/Content/erenkarakter/Mats/01_2.uasset",
+				"C:/Users/GENCO/OneDrive/Belgeler/Unreal Projects/Erenimo/Content/erenkarakter/Mats/Ch40_1001_Diffuse.uasset",
+				"C:/Users/GENCO/OneDrive/Belgeler/Unreal Projects/Erenimo/Content/erenkarakter/Mats/Ch40_1001_Glossiness.uasset",
+				"C:/Users/GENCO/OneDrive/Belgeler/Unreal Projects/Erenimo/Content/erenkarakter/Mats/Ch40_1001_Normal.uasset",
+				"C:/Users/GENCO/OneDrive/Belgeler/Unreal Projects/Erenimo/Content/erenkarakter/Mats/Ch40_1001_Specular.uasset",
+				"C:/Users/GENCO/OneDrive/Belgeler/Unreal Projects/Erenimo/Content/erenkarakter/Mats/Ch40_1002_Diffuse.uasset",
+				"C:/Users/GENCO/OneDrive/Belgeler/Unreal Projects/Erenimo/Content/erenkarakter/Mats/Ch40_1002_Glossiness.uasset",
+				"C:/Users/GENCO/OneDrive/Belgeler/Unreal Projects/Erenimo/Content/erenkarakter/Mats/Ch40_1002_Normal.uasset",
+				"C:/Users/GENCO/OneDrive/Belgeler/Unreal Projects/Erenimo/Content/erenkarakter/Mats/Ch40_1002_Specular.uasset",
+				"C:/Users/GENCO/OneDrive/Belgeler/Unreal Projects/Erenimo/Content/erenkarakter/Mats/Ch40_1003_Diffuse.uasset",
+				"C:/Users/GENCO/OneDrive/Belgeler/Unreal Projects/Erenimo/Content/erenkarakter/Mats/Ch40_body.uasset",
+				"C:/Users/GENCO/OneDrive/Belgeler/Unreal Projects/Erenimo/Content/erenkarakter/Mats/Ch40_body1.uasset",
+				"C:/Users/GENCO/OneDrive/Belgeler/Unreal Projects/Erenimo/Content/erenkarakter/Mats/Ch40_hair.uasset",
+				"C:/Users/GENCO/OneDrive/Belgeler/Unreal Projects/Erenimo/Content/erenkarakter/Skeleton/kech_adam_Skeleton.uasset",
+				"C:/Users/GENCO/OneDrive/Belgeler/Unreal Projects/Erenimo/Content/erenkarakter/Skeleton/kech_adam_PhysicsAsset.uasset",
+				"C:/Users/GENCO/OneDrive/Belgeler/Unreal Projects/Erenimo/Content/erenkarakter/Skeleton/kech_adam_Anim_mixamo_com.uasset",
+				"C:/Users/GENCO/OneDrive/Belgeler/Unreal Projects/Erenimo/Content/erenkarakter/Skeleton/kech_adam.uasset",
+				"C:/Users/GENCO/OneDrive/Belgeler/Unreal Projects/Erenimo/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/Users/GENCO/OneDrive/Belgeler/Unreal Projects/Erenimo/Content/erenkarakter/Animations/ABP_eren.uasset",
+				"C:/Users/GENCO/OneDrive/Belgeler/Unreal Projects/Erenimo/Content/erenkarakter/Animations/ABS_EREN.uasset",
+				"C:/Users/GENCO/OneDrive/Belgeler/Unreal Projects/Erenimo/Content/eren.uasset",
+				"C:/Users/GENCO/OneDrive/Belgeler/Unreal Projects/Erenimo/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/GENCO/OneDrive/Belgeler/Unreal Projects/Erenimo/Content/erenkarakter/Animations/eren_anim_idle.uasset",
+				"C:/Users/GENCO/OneDrive/Belgeler/Unreal Projects/Erenimo/Content/erenkarakter/Animations/eren_anim_run.uasset",
+				"C:/Users/GENCO/OneDrive/Belgeler/Unreal Projects/Erenimo/Content/erenkarakter/Animations/eren_anim_walk.uasset",
+				"C:/Users/GENCO/OneDrive/Belgeler/Unreal Projects/Erenimo/Content/erenkarakter/Animations/Jumping.uasset",
+				"C:/Users/GENCO/OneDrive/Belgeler/Unreal Projects/Erenimo/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/Users/GENCO/OneDrive/Belgeler/Unreal Projects/Erenimo/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/GENCO/OneDrive/Belgeler/Unreal Projects/Erenimo/Content/erenkarakter/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/GENCO/OneDrive/Belgeler/Unreal Projects/Erenimo/Content/erenkarakter/eren.uasset",
+				"C:/Users/GENCO/OneDrive/Belgeler/Unreal Projects/Erenimo/Content/erenkarakter/erenkarakter.uasset",
+				"C:/Users/GENCO/OneDrive/Belgeler/Unreal Projects/Erenimo/Content/erenkarakter/erenbp.uasset",
+				"C:/Users/GENCO/OneDrive/Belgeler/Unreal Projects/Erenimo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset",
+				"C:/Users/GENCO/OneDrive/Belgeler/Unreal Projects/Erenimo/Content/erenkarakter/Animations/BP_erenanim.uasset"
+			]
+		}
+	]
+}
